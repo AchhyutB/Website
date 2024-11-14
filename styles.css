@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(to right, rgb(0, 0, 0), rgb(22, 22, 22));
+  text-align: center;
+}
+img {
+  width: 1409px;
+  height: 720px;
+}
+span {
+  font-weight: 700;
+  font-size: 35px;
+  color: rgb(255, 255, 255);
+  margin-top: 10px;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  position: absolute;
+  top: 45%;
+  bottom: 55%;
+  transform: translate(-45%, -55%);
+}
